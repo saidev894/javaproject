@@ -1,1 +1,1 @@
-Hi this is devops class, we are learning devops class, we are discussing git concept called pull,push,clone
+Hi this is devops class, we are learning devops class, we are discussing git concept called pull,push,clone and fetch
