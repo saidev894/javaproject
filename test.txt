@@ -1,1 +1,2 @@
 Hi this is devops class, we are learning devops class, we are discussing git concept called pull,push,clone and fetch
+we are trying to use ssh url to clone,push
